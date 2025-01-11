@@ -1,5 +1,10 @@
 The Almost Final Countdown
 
+## Live Demo
+
+Check out the live version of the app here: [AlmostFinalCountdown](https://almostfinalcountdown.netlify.app/)
+
+
 Description:
 This repository contains The Almost Final Countdown, a React app built with Vite. It's a fun challenge-based timer app that tests the user's ability to estimate and stop the timer at just the right time. The app features multiple difficulty levels, including:
 
